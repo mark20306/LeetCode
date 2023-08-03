@@ -1,16 +1,10 @@
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
-        w1 = 0
-        w2 = 0
-        res =""
-
-        while w1 < len(word1) and w2 < len(word2):
-            res += word1[w1]
-            res += word2[w2]
-            w1 += 1
-            w2 += 1
-        res += word1[w1:]
-        res += word2[w2:]
-
-        return res    
+        ans=''
+        while(word1 and word2):
+            ans+=word1[0]+word2[0]
+            word1=word1[1:]
+            word2=word2[1:]
+        ans+=word1+word2
+        return ans   
         
