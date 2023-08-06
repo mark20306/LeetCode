@@ -10,11 +10,11 @@ class Solution:
             if nums1[n1] > nums2[n2]:
                 nums1[last] = nums1[n1]
                 n1 -=1
-                last -= 1
+                
             else:
                 nums1[last] = nums2[n2]
                 n2 -= 1
-                last -= 1    
+            last -= 1    
         while n2>=0:
             nums1[last] = nums2[n2]
             n2 -= 1
