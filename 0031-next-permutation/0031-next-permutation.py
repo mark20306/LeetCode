@@ -8,9 +8,9 @@ class Solution:
             i -= 1
         if i == 0:
             nums.reverse()
-            return    
+            return
         j = len(nums) - 1
-        while j >= i and nums[j] <= nums[i-1]:
+        while j >= i and nums[i-1] >= nums[j]:
             j -= 1
         nums[i-1] , nums[j] = nums[j] , nums[i-1]
-        nums[i:] = reversed(nums[i:])
+        nums[i:] = reversed(nums[i:])        
