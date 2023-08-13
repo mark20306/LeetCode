@@ -5,4 +5,5 @@ class Solution:
             res = target - numbers[i]
             if res in hashmap:
                 return [hashmap[res]+1 , i+1]
-            hashmap[numbers[i]] = i     
+            hashmap[numbers[i]] = i 
+        return [0,0]        
