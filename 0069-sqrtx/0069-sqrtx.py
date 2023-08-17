@@ -4,7 +4,7 @@ class Solution:
         res = 0
 
         while l <= r:
-            mid = (l + r )// 2
+            mid = l + (r - l) // 2
             if mid * mid > x:
                 r = mid - 1
             elif mid * mid < x:
