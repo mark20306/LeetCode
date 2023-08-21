@@ -10,7 +10,6 @@ class Solution:
                 mid = (r - l) // 2 + l
                 if nums2[mid] == i and i not in res:
                     res.append(i)
-                    
                 elif nums2[mid] > i:
                     r = mid - 1
                 else:
