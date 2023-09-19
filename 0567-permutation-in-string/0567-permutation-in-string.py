@@ -8,23 +8,31 @@ class Solution:
             s1count[ord(s1[i]) - ord("a")] += 1
             s2count[ord(s2[i]) - ord("a")] += 1
 
-        if s1count == s2count:
-            return True
-        
+        match = 0
+        for i in range(26):
+                match += 1 if s1count[i] == s2count[i] else 0
+
         l = 0
-        for r in range(len(s1), len(s2)):
-            # 將右邊界的字符納入窗口
-            s2count[ord(s2[r]) - ord("a")] += 1
-            # 將左邊界的字符移出窗口
-            s2count[ord(s2[l]) - ord("a")] -= 1
-            # 如果窗口大小等於 p 的長度，檢查是否找到了一個字母排列
-            if s1count == s2count:
+        for r in range(len(s1) , len(s2)):
+            if match == 26:
                 return True
-                
-            
-            
+
+            index = ord(s2[r]) - ord("a")
+            s2count[index] += 1
+            if s2count[index] == s1count[index]:
+                match += 1
+            elif s2count[index] == s1count[index] + 1:
+                match -= 1
+
+            index = ord(s2[l]) - ord("a")
+            s2count[index] -= 1
+            if s2count[index] == s1count[index]:
+                match += 1
+            elif s2count[index] == s1count[index] - 1:
+                match -= 1
+
             l += 1
-        return False
+        return match == 26
 
 
         
