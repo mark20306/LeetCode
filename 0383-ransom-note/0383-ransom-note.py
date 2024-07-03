@@ -8,7 +8,7 @@ class Solution:
                 ht[n] = 1
 
         for c in ransomNote:
-            if c in ht and ht[c] >= 1:
+            if c in ht and ht[c] > 0:
                 ht[c] -= 1
             else:
                 return False
