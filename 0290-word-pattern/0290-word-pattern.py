@@ -8,13 +8,15 @@ class Solution:
         wtoc = {}
 
         for c , w in zip(pattern , words):
-            if c in ctow and ctow[c] != w:
-                return False
+            if c in ctow:
+                if ctow[c] != w:
+                    return False
             else:
                 ctow[c] = w
 
-            if w in wtoc and wtoc[w] != c:
-                return False
+            if w in wtoc:
+                if wtoc[w] != c:
+                    return False
             else: 
                 wtoc[w] = c
 
