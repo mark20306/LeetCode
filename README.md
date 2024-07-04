@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/mark20306/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0290-word-pattern](https://github.com/mark20306/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/mark20306/LeetCode/tree/master/0383-ransom-note) |
 ## Linked List
 |  |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/mark20306/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/mark20306/LeetCode/tree/master/0383-ransom-note) |
 ## Counting
 |  |
