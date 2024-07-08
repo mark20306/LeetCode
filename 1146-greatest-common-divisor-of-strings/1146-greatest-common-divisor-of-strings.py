@@ -3,7 +3,4 @@ class Solution:
         if str1 + str2 != str2 + str1:
             return ""
         g = gcd(len(str1), len(str2))
-        ans = []
-        for i in range(g):
-            ans.append(str1[i])
-        return "".join(ans)
+        return str1[:g]
