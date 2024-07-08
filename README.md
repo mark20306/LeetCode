@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/mark20306/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/mark20306/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Sliding Window
 |  |
 | ------- |
