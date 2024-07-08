@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/mark20306/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/mark20306/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mark20306/LeetCode/tree/master/0389-find-the-difference) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/mark20306/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0594-longest-harmonious-subsequence](https://github.com/mark20306/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Linked List
 |  |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/mark20306/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/mark20306/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mark20306/LeetCode/tree/master/0389-find-the-difference) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/mark20306/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 ## Counting
 |  |
 | ------- |
@@ -47,4 +49,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/mark20306/LeetCode/tree/master/0389-find-the-difference) |
+## Math
+|  |
+| ------- |
+| [0423-reconstruct-original-digits-from-english](https://github.com/mark20306/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 <!---LeetCode Topics End-->
