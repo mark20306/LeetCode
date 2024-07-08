@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/mark20306/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mark20306/LeetCode/tree/master/0389-find-the-difference) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/mark20306/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/mark20306/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Counting
 |  |
 | ------- |
@@ -53,4 +54,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0423-reconstruct-original-digits-from-english](https://github.com/mark20306/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/mark20306/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
