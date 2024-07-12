@@ -4,10 +4,11 @@ class Solution:
         if k == 0:
             return [0] * n
 
-        ans = [0] * n
-        for i in range(n):
-            if k > 0:
-                ans[i] = sum(code[(i + j) % n] for j in range(1 , k + 1))
-            if k < 0:
-                ans[i] = sum(code[(i + j) % n] for j in range(k , 0))
-        return ans
+        result = [0] * n
+        if k > 0:
+            for i in range(n):
+                result[i] = sum(code[(i + j) % n] for j in range(1, k + 1))
+        else:
+            for i in range(n):
+                result[i] = sum(code[(i + j) % n] for j in range(k, 0))
+        return result
