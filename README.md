@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/mark20306/LeetCode/tree/master/0392-is-subsequence) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/mark20306/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mark20306/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mark20306/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Counting
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/mark20306/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mark20306/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sorting
 |  |
 | ------- |
