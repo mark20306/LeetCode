@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0423-reconstruct-original-digits-from-english](https://github.com/mark20306/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mark20306/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mark20306/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2470-removing-stars-from-a-string](https://github.com/mark20306/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -80,4 +81,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0724-find-pivot-index](https://github.com/mark20306/LeetCode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/mark20306/LeetCode/tree/master/1833-find-the-highest-altitude) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/mark20306/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/mark20306/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
