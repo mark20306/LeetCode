@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mark20306/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/mark20306/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0783-search-in-a-binary-search-tree](https://github.com/mark20306/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mark20306/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mark20306/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -136,6 +137,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mark20306/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/mark20306/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0783-search-in-a-binary-search-tree](https://github.com/mark20306/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mark20306/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mark20306/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/mark20306/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
