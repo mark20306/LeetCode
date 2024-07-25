@@ -18,12 +18,12 @@ class Solution:
                 return root.right
             elif not root.right:
                 return root.left
-            else:
-                current = root.right
-                while current.left:
-                    current = current.left
-                root.val = current.val
-                root.right = self.deleteNode(root.right, root.val)
+            
+            current = root.right
+            while current.left:
+                current = current.left
+            root.val = current.val
+            root.right = self.deleteNode(root.right, root.val)
         
         return root
         
