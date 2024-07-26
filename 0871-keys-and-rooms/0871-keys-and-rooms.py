@@ -1,14 +1,15 @@
 class Solution:
     def canVisitAllRooms(self, rooms: List[List[int]]) -> bool:
-        #DFS Solution
-        def dfs(room):
-            if visit[room]:
-                return
-            visit[room] = True
-            for i in rooms[room]:
-                dfs(i)
-        
+        #BFS Solutions
         visit = [False] * len(rooms)
-        dfs(0)
-        return all(visit)
+        queue = deque([0])
+        visit[0] = True
+
+        while queue:
+            room = queue.popleft()
+            for key in rooms[room]:
+                if not visit[key]:
+                    queue.append(key)
+                    visit[key] = True
         
+        return all(visit)
