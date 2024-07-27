@@ -10,7 +10,7 @@ class Solution:
             for dr, dc in directions:
                 r, c = row + dr, col + dc
                 if 0 <= r < rows and 0 <= c < cols and maze[r][c] == '.':
-                    if (r == 0 or r == rows - 1 or c == 0 or c == cols - 1) and (r != entrance[0] or c != entrance[1]):
+                    if r == 0 or r == rows - 1 or c == 0 or c == cols - 1:
                         return steps + 1
                     maze[r][c] = '+'
                     queue.append((r, c , steps + 1))
