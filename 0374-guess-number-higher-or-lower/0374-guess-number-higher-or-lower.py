@@ -10,9 +10,10 @@ class Solution:
         left, right = 1, n
         while left <= right:
             mid = left + (right - left) // 2
-            if guess(mid) == -1:
+            ans = guess(mid)
+            if ans == -1:
                 right = mid - 1
-            elif guess(mid) == 1:
+            elif ans == 1:
                 left = mid + 1
             else:
                 return mid
