@@ -5,6 +5,6 @@ class Solution:
             temp = max(rob1 + i, rob2)
             rob1 = rob2
             rob2 = temp
-        return rob2
+        return temp
 
         
