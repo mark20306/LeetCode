@@ -83,12 +83,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/mark20306/LeetCode/tree/master/0062-unique-paths) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/mark20306/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mark20306/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/mark20306/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/mark20306/LeetCode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/mark20306/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/mark20306/LeetCode/tree/master/0392-is-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/mark20306/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -211,4 +213,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/mark20306/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/mark20306/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
