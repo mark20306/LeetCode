@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/mark20306/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/mark20306/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/mark20306/LeetCode/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/mark20306/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/mark20306/LeetCode/tree/master/1036-rotting-oranges) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mark20306/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1755-defuse-the-bomb](https://github.com/mark20306/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/mark20306/LeetCode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/mark20306/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/mark20306/LeetCode/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/mark20306/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/mark20306/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/mark20306/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Greedy
