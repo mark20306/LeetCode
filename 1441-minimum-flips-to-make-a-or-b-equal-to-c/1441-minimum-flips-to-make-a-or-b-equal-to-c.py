@@ -7,7 +7,7 @@ class Solution:
             c_bit = c & 1
             if c_bit == 0:
                 ans += (a_bit + b_bit)
-            elif c_bit == 1:
+            else:
                 if a_bit == 0 and b_bit == 0:
                     ans += 1
             
