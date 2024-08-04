@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mark20306/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mark20306/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0208-implement-trie-prefix-tree](https://github.com/mark20306/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/mark20306/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/mark20306/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mark20306/LeetCode/tree/master/0389-find-the-difference) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mark20306/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/mark20306/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/mark20306/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/mark20306/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mark20306/LeetCode/tree/master/0389-find-the-difference) |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/mark20306/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0969-number-of-recent-calls](https://github.com/mark20306/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/mark20306/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Queue
@@ -224,4 +227,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mark20306/LeetCode/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/mark20306/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
