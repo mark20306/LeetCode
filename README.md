@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0423-reconstruct-original-digits-from-english](https://github.com/mark20306/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0594-longest-harmonious-subsequence](https://github.com/mark20306/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0870-magic-squares-in-grid](https://github.com/mark20306/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/mark20306/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [2413-smallest-number-in-infinite-set](https://github.com/mark20306/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Linked List
 |  |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/mark20306/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0870-magic-squares-in-grid](https://github.com/mark20306/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/mark20306/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/mark20306/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/mark20306/LeetCode/tree/master/1036-rotting-oranges) |
 | [1397-search-suggestions-system](https://github.com/mark20306/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mark20306/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/mark20306/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/mark20306/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/mark20306/LeetCode/tree/master/0871-keys-and-rooms) |
+| [0999-regions-cut-by-slashes](https://github.com/mark20306/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mark20306/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mark20306/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -185,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/mark20306/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/mark20306/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/mark20306/LeetCode/tree/master/0871-keys-and-rooms) |
+| [0999-regions-cut-by-slashes](https://github.com/mark20306/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/mark20306/LeetCode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mark20306/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mark20306/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -215,11 +219,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/mark20306/LeetCode/tree/master/0547-number-of-provinces) |
+| [0999-regions-cut-by-slashes](https://github.com/mark20306/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Matrix
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/mark20306/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/mark20306/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/mark20306/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/mark20306/LeetCode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/mark20306/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Divide and Conquer
