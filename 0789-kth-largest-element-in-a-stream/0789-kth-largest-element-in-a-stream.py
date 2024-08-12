@@ -4,7 +4,7 @@ class KthLargest:
         self.minheap = nums
         self.k = k
         heapq.heapify(self.minheap)
-        while self.minheap and len(self.minheap) > self.k:
+        while len(self.minheap) > self.k:
             heapq.heappop(self.minheap)
 
     def add(self, val: int) -> int:
