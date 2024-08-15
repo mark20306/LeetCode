@@ -4,13 +4,13 @@ class Solution:
         for i in bills:
             if i == 5:
                 five += 1
-            elif i == 10:
+            if i == 10:
                 if five:
                     five -= 1
                     ten += 1
                 else:
                     return False
-            else:
+            elif i == 20:
                 if five and ten:
                     five -= 1
                     ten -= 1
