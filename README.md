@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/mark20306/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/mark20306/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0870-magic-squares-in-grid](https://github.com/mark20306/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/mark20306/LeetCode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/mark20306/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/mark20306/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/mark20306/LeetCode/tree/master/1036-rotting-oranges) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mark20306/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mark20306/LeetCode/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/mark20306/LeetCode/tree/master/0649-dota2-senate) |
+| [0890-lemonade-change](https://github.com/mark20306/LeetCode/tree/master/0890-lemonade-change) |
 ## Prefix Sum
 |  |
 | ------- |
