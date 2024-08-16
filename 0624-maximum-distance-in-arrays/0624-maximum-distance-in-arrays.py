@@ -5,5 +5,4 @@ class Solution:
         for i in range(1, len(arrays)):
             temp = max(abs(arrays[i][-1] - arrays[0][0]),abs(arrays[0][-1] - arrays[i][0]))
             ans = max(ans, temp)
-        print(arrays)
         return ans
