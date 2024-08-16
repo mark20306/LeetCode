@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mark20306/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mark20306/LeetCode/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/mark20306/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0624-maximum-distance-in-arrays](https://github.com/mark20306/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mark20306/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/mark20306/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/mark20306/LeetCode/tree/master/0735-asteroid-collision) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/mark20306/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mark20306/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mark20306/LeetCode/tree/master/0455-assign-cookies) |
+| [0624-maximum-distance-in-arrays](https://github.com/mark20306/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0649-dota2-senate](https://github.com/mark20306/LeetCode/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/mark20306/LeetCode/tree/master/0890-lemonade-change) |
 ## Prefix Sum
