@@ -1,12 +1,13 @@
 class Solution:
     def nthUglyNumber(self, n: int) -> int:
-        ans = []
         minheap = [1]
-        while minheap and len(ans) < n:
+        visit = set()
+        factors = [2, 3, 5]
+        for i in range(n):
             num = heapq.heappop(minheap)
-            if num not in ans:
-                ans.append(num)
-                heapq.heappush(minheap, num * 2)
-                heapq.heappush(minheap, num * 3)
-                heapq.heappush(minheap, num * 5)
-        return ans[-1]
+            if i == n - 1:
+                return num
+            for f in factors:
+                if num * f not in visit:
+                    visit.add(num * f)
+                    heapq.heappush(minheap, num * f)
