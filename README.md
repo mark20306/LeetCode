@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mark20306/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mark20306/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/mark20306/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0264-ugly-number-ii](https://github.com/mark20306/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/mark20306/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/mark20306/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mark20306/LeetCode/tree/master/0389-find-the-difference) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mark20306/LeetCode/tree/master/0062-unique-paths) |
+| [0264-ugly-number-ii](https://github.com/mark20306/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/mark20306/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/mark20306/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0870-magic-squares-in-grid](https://github.com/mark20306/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/mark20306/LeetCode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/mark20306/LeetCode/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/mark20306/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/mark20306/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/mark20306/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mark20306/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -256,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mark20306/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/mark20306/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mark20306/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1397-search-suggestions-system](https://github.com/mark20306/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/mark20306/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
