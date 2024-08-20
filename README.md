@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/mark20306/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/mark20306/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/mark20306/LeetCode/tree/master/1036-rotting-oranges) |
+| [1240-stone-game-ii](https://github.com/mark20306/LeetCode/tree/master/1240-stone-game-ii) |
 | [1397-search-suggestions-system](https://github.com/mark20306/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mark20306/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mark20306/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/mark20306/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mark20306/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/mark20306/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1240-stone-game-ii](https://github.com/mark20306/LeetCode/tree/master/1240-stone-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/mark20306/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/mark20306/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/mark20306/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1240-stone-game-ii](https://github.com/mark20306/LeetCode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/mark20306/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/mark20306/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Greedy
@@ -147,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/mark20306/LeetCode/tree/master/0724-find-pivot-index) |
+| [1240-stone-game-ii](https://github.com/mark20306/LeetCode/tree/master/1240-stone-game-ii) |
 | [1833-find-the-highest-altitude](https://github.com/mark20306/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Stack
 |  |
@@ -305,4 +309,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mark20306/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/mark20306/LeetCode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
