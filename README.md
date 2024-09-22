@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/mark20306/LeetCode/tree/master/1240-stone-game-ii) |
 | [1397-search-suggestions-system](https://github.com/mark20306/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mark20306/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mark20306/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mark20306/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1755-defuse-the-bomb](https://github.com/mark20306/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mark20306/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/mark20306/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/mark20306/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mark20306/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mark20306/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/mark20306/LeetCode/tree/master/1755-defuse-the-bomb) |
 ## Sorting
 |  |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1236-n-th-tribonacci-number](https://github.com/mark20306/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/mark20306/LeetCode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/mark20306/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mark20306/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/mark20306/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Greedy
 |  |
