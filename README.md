@@ -350,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/mark20306/LeetCode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/mark20306/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/mark20306/LeetCode/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/mark20306/LeetCode/tree/master/1258-article-views-i) |
