@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mark20306/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mark20306/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mark20306/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/mark20306/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mark20306/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mark20306/LeetCode/tree/master/0011-container-with-most-water) |
 | [0040-combination-sum-ii](https://github.com/mark20306/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0198-house-robber](https://github.com/mark20306/LeetCode/tree/master/0198-house-robber) |
