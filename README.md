@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/mark20306/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mark20306/LeetCode/tree/master/0011-container-with-most-water) |
 | [0040-combination-sum-ii](https://github.com/mark20306/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0066-plus-one](https://github.com/mark20306/LeetCode/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/mark20306/LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/mark20306/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mark20306/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mark20306/LeetCode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/mark20306/LeetCode/tree/master/0066-plus-one) |
 | [0264-ugly-number-ii](https://github.com/mark20306/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/mark20306/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/mark20306/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
