@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/mark20306/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/mark20306/LeetCode/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mark20306/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0841-shortest-distance-to-a-character](https://github.com/mark20306/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mark20306/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mark20306/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mark20306/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/mark20306/LeetCode/tree/master/0394-decode-string) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/mark20306/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0649-dota2-senate](https://github.com/mark20306/LeetCode/tree/master/0649-dota2-senate) |
+| [0841-shortest-distance-to-a-character](https://github.com/mark20306/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mark20306/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/mark20306/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/mark20306/LeetCode/tree/master/1397-search-suggestions-system) |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/mark20306/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mark20306/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/mark20306/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0841-shortest-distance-to-a-character](https://github.com/mark20306/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0870-magic-squares-in-grid](https://github.com/mark20306/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/mark20306/LeetCode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/mark20306/LeetCode/tree/master/0921-spiral-matrix-iii) |
